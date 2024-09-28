@@ -13,7 +13,7 @@ A simple note-taking web app built with **Vue.js**, **Bootstrap**, and **localSt
 1. Clone the repository:
 
    ```bash
-   git clone <repo-url>
+   git clone https://github.com/khaouitiabdelhakim/Note-Web-App-VueJS.git
    cd note-web-app
    ```
 
