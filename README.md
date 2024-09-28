@@ -1,24 +1,48 @@
-# note-web-app
+# Note Web App
 
-## Project setup
-```
-npm install
-```
+A simple note-taking web app built with **Vue.js**, **Bootstrap**, and **localStorage** for persisting notes across sessions.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Features
 
-### Compiles and minifies for production
-```
-npm run build
-```
+- Add, edit, and delete notes.
+- Responsive design using Bootstrap.
+- Notes are saved in the browser's localStorage.
 
-### Lints and fixes files
-```
-npm run lint
-```
+## Project Setup
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+1. Clone the repository:
+
+   ```bash
+   git clone <repo-url>
+   cd note-web-app
+   ```
+
+2. Install dependencies:
+
+   ```bash
+   npm install
+   ```
+
+3. Start the development server:
+
+   ```bash
+   npm run serve
+   ```
+
+4. Open the app in your browser:
+
+   ```
+   http://localhost:8080
+   ```
+
+## Dependencies
+
+- **Vue.js**: Front-end framework
+- **Bootstrap**: CSS framework for styling
+- **localStorage**: Browser storage for persisting notes
+
+## Usage
+
+- Enter a note in the input field and click "Add Note."
+- Edit or delete notes as needed.
+- Notes are automatically saved and reloaded on page refresh.
