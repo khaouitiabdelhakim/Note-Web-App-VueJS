@@ -1,6 +1,6 @@
 # Note Web App
 
-<img src="https://github.com/khaouitiabdelhakim/Note-Web-App-VueJS/blob/master/src/assets/logo.png"/>
+<img src="https://github.com/khaouitiabdelhakim/Note-Web-App-VueJS/blob/master/src/assets/logo.png" width="30%"/>
 A simple note-taking web app built with **Vue.js**, **Bootstrap**, and **localStorage** for persisting notes across sessions.
 
 ## Features
